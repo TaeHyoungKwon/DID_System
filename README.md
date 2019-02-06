@@ -12,6 +12,53 @@
 
 
 
+## Prerequisites
+
+- Pip3
+- Python3
+- Yarn
+- React
+- React Native
+
+
+
+## Architecture and Flow
+
+![image-20190207074127133](assets/image-20190207074127133.png)
+
+
+
+
+
+## Dependencies
+
+| Dependence                  | Version       |
+| --------------------------- | ------------- |
+| **———— Backend ————**       |               |
+| Python                      | 3.7           |
+| Django                      | 2.0.5         |
+| djangorestframework         | 3.8.2         |
+| django-rest-swagger         | 2.2.0         |
+| django-cors-headers         | 2.2.0         |
+|                             |               |
+| **———— Frontend ————**      |               |
+| **Admin Page**              |               |
+| react                       | 16.3.1        |
+| react-dom                   | 16.3.1        |
+| react-model                 | 3.4.4         |
+| React-notify-toast          | 0.5.0         |
+| React-router-dom            | 4.3.1         |
+| Semantice-ui-react          | 0.80.2        |
+|                             |               |
+| **App**                     |               |
+| axios                       | 0.18.0        |
+| native-base                 | 2.4.5         |
+| react-native                | 0.55.4        |
+| react-native-keep-awake     | 3             |
+| react-native-router-flux    | 4.0.0-beta.27 |
+| react-native-system-setting | 1.4.6         |
+| react-native-vector-icons   | 4.6.0         |
+
 
 
 ## Functions
@@ -69,8 +116,6 @@
 #### 어플리케이션
 
 #### 	1. 면접 시간과 현재 시간 일치할 때, 화면 깜박임
-
-​	
 
 #### 	2. 현재 시간 기준 자동 스크롤
 
